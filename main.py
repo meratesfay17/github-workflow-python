@@ -4,4 +4,4 @@ def hello():
 def bay():
     print("good bay")
     
-print(hello())
+hello()  # Call the hello function directly
