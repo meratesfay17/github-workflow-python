@@ -1,7 +1,7 @@
 def hello():
     print("hi")
 
-def bay():
+def bye():
     print("good bay")
     
 hello()  # Call the hello function directly
